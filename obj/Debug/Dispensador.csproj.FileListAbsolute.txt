@@ -1,0 +1,10 @@
+C:\#Jose\IST\Semestre II\Desarrollo de Software II\Visual Studio\Dispensador\Dispensador\bin\Debug\Dispensador.exe.config
+C:\#Jose\IST\Semestre II\Desarrollo de Software II\Visual Studio\Dispensador\Dispensador\bin\Debug\Dispensador.exe
+C:\#Jose\IST\Semestre II\Desarrollo de Software II\Visual Studio\Dispensador\Dispensador\bin\Debug\Dispensador.pdb
+C:\#Jose\IST\Semestre II\Desarrollo de Software II\Visual Studio\Dispensador\Dispensador\obj\Debug\Dispensador.csprojAssemblyReference.cache
+C:\#Jose\IST\Semestre II\Desarrollo de Software II\Visual Studio\Dispensador\Dispensador\obj\Debug\Dispensador.Properties.Resources.resources
+C:\#Jose\IST\Semestre II\Desarrollo de Software II\Visual Studio\Dispensador\Dispensador\obj\Debug\Dispensador.csproj.GenerateResource.cache
+C:\#Jose\IST\Semestre II\Desarrollo de Software II\Visual Studio\Dispensador\Dispensador\obj\Debug\Dispensador.csproj.CoreCompileInputs.cache
+C:\#Jose\IST\Semestre II\Desarrollo de Software II\Visual Studio\Dispensador\Dispensador\obj\Debug\Dispensador.exe
+C:\#Jose\IST\Semestre II\Desarrollo de Software II\Visual Studio\Dispensador\Dispensador\obj\Debug\Dispensador.pdb
+C:\#Jose\IST\Semestre II\Desarrollo de Software II\Visual Studio\Dispensador\Dispensador\obj\Debug\Dispensador.Form1.resources
